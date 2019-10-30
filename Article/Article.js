@@ -146,10 +146,12 @@ const data = [
 */
 
 const articlesParDiv = document.querySelector('.articles')
+const expandBtn = document.querySelector('.expandButton')
 
 data.forEach(data => {
 
 articlesParDiv.appendChild(createArticle(data.title, data.date, data.firstParagraph, data.secondParagraph, data.thirdParagraph ))
+
 })
 
 function createArticle(title, date, firstParagraph, secondParagraph, thirdParagraph){
@@ -172,11 +174,13 @@ function createArticle(title, date, firstParagraph, secondParagraph, thirdParagr
   pDate.classList.add("date");
   span.classList.add("expandButton");
 
+
   h2.textContent = title;
   pDate.textContent = date;
   p1.textContent = firstParagraph;
   p2.textContent = secondParagraph;
   p3.textContent = thirdParagraph;
+  span.textContent = 'expand';
 /*
   Hint: You will need to use createElement more than once here!
 
@@ -191,8 +195,8 @@ article.classList.toggle('article-open');
 return article
 }
   //Step 4: Map over the data, creating a component for each oject and add each component to the DOM as children of the 'articles' div.
-let articles = data.map( (item) => {
-  let newArticle = createArticle(item)
+let articles = data.map( (btn) => {
+  let newArticle = createArticle(btn)
   return newArticle
 })
   //Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.

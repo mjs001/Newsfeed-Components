@@ -33,7 +33,6 @@ function createMenu(array){
   array.forEach( array => {
   const data = document.createElement('li')
   data.textContent = array;
-  
   ul.appendChild(data)
   menu.appendChild(ul)
   });
