@@ -19,29 +19,34 @@ let menuItems = [
     </ul>
   </div>
 */
-
+const headerMenu = document.querySelector('.header');
+headerMenu.appendChild(createMenu(menuItems));
 
 
 
 function createMenu(array){
+  
   const menu = document.createElement('div');
+  menu.classList.add('menu');
   const ul = document.createElement('ul');
-  array.forEach(data => {
-  data.createElement('li')
-  ul.appendChild(li)
+  
+  array.forEach( array => {
+  const data = document.createElement('li')
+  data.textContent = array;
+  
+  ul.appendChild(data)
+  menu.appendChild(ul)
   });
-  const menuBtn = document.querySelector('.menu-button');
+
+const menuBtn = document.querySelector('.menu-button');
 menuBtn.addEventListener('click', () => {
   menu.classList.toggle('menu--open')
 });
 
 
-
-
-
   return menu;
+  
 }
-
   //The function takes an array as its only argument.
 
   //Step 2: Inside this function, iterate over the array creating a list item <li> element for each item in the array. 
