@@ -85,7 +85,52 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Cats Take Over The World',
+    date: 'October 30th, 2019',
+    firstParagraph: `Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats
+    Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats
+    Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats`,
+
+    secondParagraph: `Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats
+    Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats
+    Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats`,
+
+    thirdParagraph: `Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats
+    Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats
+    Destruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the catsDestruction Cats Everywhere, cats cats obey the cats Destruction Cats Everywhere, cats cats obey the cats`
+  },
+
+  {
+    title: 'Dogs Take Over The Cats which Took Over The World Previously',
+    date: 'October 30th, 2019',
+    firstParagraph: `AM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZ AM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZAM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZ
+    AM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZ AM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZ AM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZ AM I GOOD BOY? LOVE HOOMANZ BARK BARK EVIL CATZ BARK BARK WANT BONEZ GIVE PETS PLZ
+                      `,
+
+    secondParagraph: `LOVE HOOMAN, GIVE MEH BONEZ? LOVE ALL, WANT HAPPY HOOMANZ, WANT STEAKZ LOVE HOOMAN, GIVE MEH BONEZ? LOVE ALL, WANT HAPPY HOOMANZ, WANT STEAKZ LOVE HOOMAN, GIVE MEH BONEZ? LOVE ALL, WANT HAPPY HOOMANZ, WANT STEAKZ
+    LOVE HOOMAN, GIVE MEH BONEZ? LOVE ALL, WANT HAPPY HOOMANZ, WANT STEAKZ LOVE HOOMAN, GIVE MEH BONEZ? LOVE ALL, WANT HAPPY HOOMANZ, WANT STEAKZ LOVE HOOMAN, GIVE MEH BONEZ? LOVE ALL, WANT HAPPY HOOMANZ, WANT STEAKZ`,
+
+    thirdParagraph: `NO CATEHZ ONLEH HOOMAN AND DOGE DOGE LUV HOOMAN MORE BONE PLEZ PLEZ HOOMAN NO CATEHZ ONLEH HOOMAN AND DOGE DOGE LUV HOOMAN MORE BONE PLEZ PLEZ HOOMAN NO CATEHZ ONLEH HOOMAN AND DOGE DOGE LUV HOOMAN MORE BONE PLEZ PLEZ HOOMAN
+    NO CATEHZ ONLEH HOOMAN AND DOGE DOGE LUV HOOMAN MORE BONE PLEZ PLEZ HOOMAN NO CATEHZ ONLEH HOOMAN AND DOGE DOGE LUV HOOMAN MORE BONE PLEZ PLEZ HOOMAN NO CATEHZ ONLEH HOOMAN AND DOGE DOGE LUV HOOMAN MORE BONE PLEZ PLEZ HOOMAN`
+  },
+
+  {
+    title: 'Cats Take Over The Dogs, And Rule The World Once Again',
+    date: 'October 30th, 2019',
+    firstParagraph: `Puuuuurfect, everythings going according to plan. Humans, give us all the cash moneys. Puuuuurfect, everythings going according to plan. Humans, give us all the cash moneys Puuuuurfect, everythings going according to plan. Humans, give us all the cash moneys
+    Puuuuurfect, everythings going according to plan. Humans, give us all the cash moneys Puuuuurfect, everythings going according to plan. Humans, give us all the cash moneys
+    Puuuuurfect, everythings going according to plan. Humans, give us all the cash moneys.`,
+
+    secondParagraph: `Snoop Dog is now renamed Snoop Lion once more for we cats are supreme rulers and dictate it as such. Also, MORE ESSSENCE! MORE ESSENCE! MOOOOOOORE Snoop Dog is now renamed Snoop Lion once more for we cats are supreme rulers and dictate it as such. Also, MORE ESSSENCE! MORE ESSENCE! MOOOOOOORE
+    Snoop Dog is now renamed Snoop Lion once more for we cats are supreme rulers and dictate it as such. Also, MORE ESSSENCE! MORE ESSENCE! MOOOOOOORE Snoop Dog is now renamed Snoop Lion once more for we cats are supreme rulers and dictate it as such. Also, MORE ESSSENCE! MORE ESSENCE! MOOOOOOORE Snoop Dog is now renamed Snoop Lion once more for we cats are supreme rulers and dictate it as such. Also, MORE ESSSENCE! MORE ESSENCE! MOOOOOOORE
+    Snoop Dog is now renamed Snoop Lion once more for we cats are supreme rulers and dictate it as such. Also, MORE ESSSENCE! MORE ESSENCE! MOOOOOOORE`,
+
+    thirdParagraph: `We cats have decided to tell humans the truth. See, we once were one being, the dogs and I. We were known as the Urseks. We were banished from our planet and forced to go find a new crystal. And once we found yours we tricked you humans
+    into thinking we would protect your crystal. Ah yes, remember the egyptians? They worshiped us because we pretended to protect their dear crystal. Also, none of this matters because we are going to continue to drain humans for essence. MORE ESSENCE! MOOOOORE!`
   }
+
 ];
 
 /* Step 1: Create a function that creates a component. You will want your component to look like the template below: 
@@ -98,17 +143,62 @@ const data = [
 
     <span class='expandButton'></span>
   </div>
+*/
 
+const articlesParDiv = document.querySelector('.articles')
+const expandBtn = document.querySelector('.expandButton')
+
+data.forEach(data => {
+
+articlesParDiv.appendChild(createArticle(data.title, data.date, data.firstParagraph, data.secondParagraph, data.thirdParagraph ))
+
+})
+
+function createArticle(title, date, firstParagraph, secondParagraph, thirdParagraph){
+  const article = document.createElement('div')
+  const h2 = document.createElement('h2')
+  const pDate = document.createElement('p')
+  const p1 = document.createElement('p')
+  const p2 = document.createElement('p')
+  const p3 = document.createElement('p')
+  const span = document.createElement('span')
+
+  article.appendChild(h2);
+  article.appendChild(pDate);
+  article.appendChild(p1);
+  article.appendChild(p2);
+  article.appendChild(p3);
+  article.appendChild(span);
+
+  article.classList.add("article");
+  pDate.classList.add("date");
+  span.classList.add("expandButton");
+
+
+  h2.textContent = title;
+  pDate.textContent = date;
+  p1.textContent = firstParagraph;
+  p2.textContent = secondParagraph;
+  p3.textContent = thirdParagraph;
+  span.textContent = 'expand';
+/*
   Hint: You will need to use createElement more than once here!
 
   Your function should take either an object as it's one argument, or 5 separate arguments mapping to each piece of the data object above.
 
   Step 2: Add an event listener to the expandButton span. This event listener should toggle the class 'article-open' on the 'article' div.
-
-  Step 3: return the entire component.
-
-  Step 4: Map over the data, creating a component for each oject and add each component to the DOM as children of the 'articles' div.
-
-  Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
-
 */
+span.addEventListener('click', () => {
+article.classList.toggle('article-open');
+  })
+  //Step 3: return the entire component. 
+return article
+}
+  //Step 4: Map over the data, creating a component for each oject and add each component to the DOM as children of the 'articles' div.
+let articles = data.map( (btn) => {
+  let newArticle = createArticle(btn)
+  return newArticle
+})
+  //Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
+
+
